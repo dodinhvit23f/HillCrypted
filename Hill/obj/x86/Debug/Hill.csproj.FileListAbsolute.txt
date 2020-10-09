@@ -1,0 +1,8 @@
+E:\DoDinhTien\3092020\Hill\Hill\bin\Debug\Hill.exe
+E:\DoDinhTien\3092020\Hill\Hill\bin\Debug\Hill.pdb
+E:\DoDinhTien\3092020\Hill\Hill\obj\x86\Debug\Hill.Form1.resources
+E:\DoDinhTien\3092020\Hill\Hill\obj\x86\Debug\Hill.Properties.Resources.resources
+E:\DoDinhTien\3092020\Hill\Hill\obj\x86\Debug\Hill.csproj.GenerateResource.Cache
+E:\DoDinhTien\3092020\Hill\Hill\obj\x86\Debug\Hill.exe
+E:\DoDinhTien\3092020\Hill\Hill\obj\x86\Debug\Hill.pdb
+E:\DoDinhTien\3092020\Hill\Hill\obj\x86\Debug\Hill.csprojResolveAssemblyReference.cache
