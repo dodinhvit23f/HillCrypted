@@ -372,7 +372,7 @@ namespace Hill
                         else
                         {
 
-                            reverseMatrix[i, j] = Math.Pow(-1, j + 1) * DetMatrixLevel2(temp);
+                            reverseMatrix[i, j] = Math.Pow(-1, j + i) * DetMatrixLevel2(temp);
                         }
                     }
                 }
@@ -449,7 +449,7 @@ namespace Hill
             for(int i = 0; i < length; i++)
             {
                 subText += text[i];
-                if (subText.Length == 4)
+                if (subText.Length == L)
                 {
                    
                     crypted(vector, matrix, subText, toText);
